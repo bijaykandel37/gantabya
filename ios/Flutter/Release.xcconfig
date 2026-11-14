@@ -1,0 +1,4 @@
+#include "Generated.xcconfig"
+
+// Optional, git-ignored: MAPS_API_KEY = your-ios-maps-key
+#include? "Secrets.xcconfig"
